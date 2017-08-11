@@ -1,0 +1,23 @@
+{
+  "name": "download-xcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/duncanmak/download-xcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncanmak/download-xcode/issues"
+  },
+  "homepage": "https://github.com/duncanmak/download-xcode#readme",
+  "dependencies": {
+    "@types/node-fetch": "^1.6.7",
+    "node-fetch": "^1.7.2"
+  }
+}
